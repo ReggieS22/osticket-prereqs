@@ -60,7 +60,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img <img width="449" height="558" alt="login for rdp" src="https://github.com/user-attachments/assets/287916b9-f9c2-4c77-99a6-99e7d912ca61" />
+<img <img width="449" height="558" alt="login for rdp" src="https://github.com/user-attachments/assets/287916b9-f9c2-4c77-99a6-99e7d912ca61"/>
 />
 </p>
 <p>
@@ -73,7 +73,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <strong>2. Download the osTciket-installation-Files.zip</strong>
 <p>
-  <img <img width="794" height="419" alt="unzip" src="https://github.com/user-attachments/assets/e9ee5a8d-0190-4fad-a7bc-8a8c7429f50b" />
+  <img <img width="794" height="419" alt="unzip" src="https://github.com/user-attachments/assets/e9ee5a8d-0190-4fad-a7bc-8a8c7429f50b"/>
  />
 </p>
 <p>
@@ -84,7 +84,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <strong> 3. Enable ISS with CGI </strong>
 <p>
-  <img <img width="826" height="438" alt="Screenshot 2025-08-29 102918" src="https://github.com/user-attachments/assets/595ea493-840c-4862-93c9-34da303a275c" />
+  <img <img width="826" height="438" alt="Screenshot 2025-08-29 102918" src="https://github.com/user-attachments/assets/595ea493-840c-4862-93c9-34da303a275c"/>
 />
 </p>
 <p>
@@ -96,7 +96,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - <strong> Enable (internet information services) World Wide Web Services > Application Development Features > enable CGI </strong>
 <p>
-  <img <img width="417" height="723" alt="Screenshot 2025-08-29 102947" src="https://github.com/user-attachments/assets/fc1d6183-6fe3-4139-840a-a67a1f438e60" />
+  <img <img width="417" height="723" alt="Screenshot 2025-08-29 102947" src="https://github.com/user-attachments/assets/fc1d6183-6fe3-4139-840a-a67a1f438e60"/>
  />
 </p>
 <p>
@@ -106,7 +106,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <strong> 4. Download and Install PHP manager from the osTicket-installation-Files </strong>
 <p>
-  <img <img width="507" height="415" alt="Screenshot 2025-08-29 103007" src="https://github.com/user-attachments/assets/a497235c-5fa6-46b8-b5b3-8f66cb37456a" />
+  <img <img width="507" height="415" alt="Screenshot 2025-08-29 103007" src="https://github.com/user-attachments/assets/a497235c-5fa6-46b8-b5b3-8f66cb37456a"/>
  />
 </p>
 <p>
@@ -119,7 +119,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <strong> 5. Download and Install the Rewrite Module</strong>
 <p>
-  <img <img width="501" height="392" alt="Screenshot 2025-08-29 103020" src="https://github.com/user-attachments/assets/580f7d9f-1b49-4689-b53f-9b7d07a8546f" />
+  <img <img width="501" height="392" alt="Screenshot 2025-08-29 103020" src="https://github.com/user-attachments/assets/580f7d9f-1b49-4689-b53f-9b7d07a8546f"/>
  />
  />
 </p>
@@ -134,7 +134,37 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <strong> 6. Create a directory in the C drive. Name the folder PHP. </strong>
 <p>
-  <img <img width="828" height="445" alt="Screenshot 2025-08-29 103032" src="https://github.com/user-attachments/assets/ae7026c9-63fe-42e0-b6a5-c181c1334c59" />
+  <img <img width="828" height="445" alt="Screenshot 2025-08-29 103032" src="https://github.com/user-attachments/assets/ae7026c9-63fe-42e0-b6a5-c181c1334c59"/>
+ />
+ />
+ />
+</p>
+<p>
+- Go to file explorer and create the directory C:\PHP
+</p>
+<br />
+
+
+
+<strong> 7. From the osTicket-Installation-Files install (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP </strong>
+<p>
+  <img <img width="621" height="469" alt="Screenshot 2025-08-29 103042" src="https://github.com/user-attachments/assets/e0b1976f-54db-4eef-936d-7b78373db59e"/>
+/>
+ />
+ />
+ />
+</p>
+<p>
+</p>
+<br />
+
+
+
+
+<strong> 8. Download and Install the (VC_redist.x86.exe) </strong>
+<p>
+  <img <img width="481" height="300" alt="Screenshot 2025-08-29 103051" src="https://github.com/user-attachments/assets/f466cf70-2658-49e4-b84b-3487703079af"/>
+/>
  />
  />
  />
