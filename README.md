@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-#Setting up osTicket in Azure VM
+# Setting up osTicket in Azure VM
 </p>
 <br />
 
