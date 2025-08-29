@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 <h2>Setting up osTicket in Azure VM</h2>
 
-- <strong>Create Virtual Machine in Azure:</strong>
+1. <strong>Create Virtual Machine in Azure:</strong>
 - <strong>Log into Azure Portal</strong>
 - <strong>Create a new VM with Windows Server.</strong>
 
@@ -55,7 +55,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-- Use the VM’s public IP address to connect via Remote Desktop Connection (RDP).
+2. Use the VM’s public IP address to connect via Remote Desktop Connection (RDP).
 </p>
 <br />
 
@@ -70,6 +70,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-### 3. Size and Region
-![Size](<img width="794" height="419" alt="unzip" src="https://github.com/user-attachments/assets/20229f6e-cb9e-489e-8b0e-d1758b1d5d66" />)
-*Pick an appropriate VM size and region.*
+
+- <strong>3. Download the osTciket-installation-Files.zip</strong>
+<p>
+  <img <img width="794" height="419" alt="unzip" src="https://github.com/user-attachments/assets/e9ee5a8d-0190-4fad-a7bc-8a8c7429f50b" />
+ />
+</p>
+<p>
+- Inside your VM download the https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and unzip it onto your desktop. We will use the files to download osTicket.
+</p>
+<br />
+
+
