@@ -36,10 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-#
-- Create Virtaul Machine in Azure:
-- Log in to Azure Portal.
--Create a new VM with Windows Server.
+#Setting up osTicket in Azure VM
 </p>
 <br />
 
