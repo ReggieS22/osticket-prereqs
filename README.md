@@ -93,3 +93,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 
+
+- <strong>enable (internet information services) World Wide Web Services > Application Development Features > enable CGI </strong>
+<p>
+  <img <img width="417" height="723" alt="Screenshot 2025-08-29 102947" src="https://github.com/user-attachments/assets/fc1d6183-6fe3-4139-840a-a67a1f438e60" />
+ />
+</p>
+<p>
+</p>
+<br />
+
+
