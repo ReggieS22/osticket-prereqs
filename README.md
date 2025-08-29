@@ -149,10 +149,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <strong> 7. From the osTicket-Installation-Files install (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP </strong>
 <p>
   <img <img width="621" height="469" alt="Screenshot 2025-08-29 103042" src="https://github.com/user-attachments/assets/e0b1976f-54db-4eef-936d-7b78373db59e"/>
-/>
- />
- />
- />
 </p>
 <p>
 </p>
@@ -165,12 +161,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install from the osTicket-Installation-Files
 <p>
   <img <img width="481" height="300" alt="Screenshot 2025-08-29 103051" src="https://github.com/user-attachments/assets/f466cf70-2658-49e4-b84b-3487703079af"/>
-/>
- />
- />
- />
 </p>
 <p>
 </p>
 <br />
+
+
+<strong> 9. Download and Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)</strong>
+- Install from the osTicket-Installation-Files
+- Select the following configurations:
+     - Typical setup
+     - launch configuration
+     - Standard configuration
+<p>
+  <img <img width="500" height="393" alt="Screenshot 2025-08-29 103101" src="https://github.com/user-attachments/assets/2d8746e6-8d6a-4e79-b339-ebe4b7611b70" />
+</p>
+<p>
+</p>
+<br />
+
+
 
