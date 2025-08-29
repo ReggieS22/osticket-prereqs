@@ -67,3 +67,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Log in using the credentials you created during VM setup (Reggie-admin in this example).
 </p>
 <br />
+
+
+
+### 3. Size and Region
+![Size](<img width="794" height="419" alt="unzip" src="https://github.com/user-attachments/assets/20229f6e-cb9e-489e-8b0e-d1758b1d5d66" />)
+*Pick an appropriate VM size and region.*
