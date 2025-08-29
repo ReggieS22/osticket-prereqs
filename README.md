@@ -120,8 +120,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <strong> 5. Download and Install the Rewrite Module</strong>
 <p>
   <img <img width="501" height="392" alt="Screenshot 2025-08-29 103020" src="https://github.com/user-attachments/assets/580f7d9f-1b49-4689-b53f-9b7d07a8546f"/>
- />
- />
 </p>
 <p>
 - (rewrite_amd64_en-US.msi) from the osTicket-Installation-Files
@@ -135,9 +133,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <strong> 6. Create a directory in the C drive. Name the folder PHP. </strong>
 <p>
   <img <img width="828" height="445" alt="Screenshot 2025-08-29 103032" src="https://github.com/user-attachments/assets/ae7026c9-63fe-42e0-b6a5-c181c1334c59"/>
- />
- />
- />
+
 </p>
 <p>
 - Go to file explorer and create the directory C:\PHP
@@ -212,6 +208,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  - PHP folder
  - php.cgi
  
+</p>
+<br />
+
+
+
+<strong> 12. Reload IIS (Open ISS, Stop and Start the server) </strong>
+- The restart button can be found on the right sider of the window
+<p>
+  <img <img width="827" height="479" alt="Screenshot 2025-08-29 103140" src="https://github.com/user-attachments/assets/8839b08a-d2d3-4359-8607-155c74fa55e4"/>
+</p>
+<p>
 </p>
 <br />
 
