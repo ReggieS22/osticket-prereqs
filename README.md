@@ -162,6 +162,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <strong> 8. Download and Install the (VC_redist.x86.exe) </strong>
+- Install from the osTicket-Installation-Files
 <p>
   <img <img width="481" height="300" alt="Screenshot 2025-08-29 103051" src="https://github.com/user-attachments/assets/f466cf70-2658-49e4-b84b-3487703079af"/>
 />
@@ -170,7 +171,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  />
 </p>
 <p>
-- Go to file explorer and create the directory C:\PHP
 </p>
 <br />
 
