@@ -207,7 +207,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  - Go to your C drive
  - PHP folder
  - php.cgi
- 
+   <img <img width="831" height="453" alt="Screenshot 2025-08-29 103150" src="https://github.com/user-attachments/assets/56aebcef-9bc4-45c1-9f6f-373aea8ed796" />
 </p>
 <br />
 
@@ -216,7 +216,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <strong> 12. Reload IIS (Open ISS, Stop and Start the server) </strong>
 - The restart button can be found on the right sider of the window
 <p>
-  <img <img width="827" height="479" alt="Screenshot 2025-08-29 103140" src="https://github.com/user-attachments/assets/8839b08a-d2d3-4359-8607-155c74fa55e4"/>
+  <img <img width="831" height="453" alt="Screenshot 2025-08-29 103150" src="https://github.com/user-attachments/assets/7a631a62-a2aa-4f65-b4d9-43f6539f6837" />
 </p>
 <p>
 </p>
