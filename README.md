@@ -216,10 +216,30 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <strong> 12. Reload IIS (Open ISS, Stop and Start the server) </strong>
 - The restart button can be found on the right sider of the window
 <p>
-  <img <img width="831" height="453" alt="Screenshot 2025-08-29 103150" src="https://github.com/user-attachments/assets/7a631a62-a2aa-4f65-b4d9-43f6539f6837" />
+  <img <img width="824" height="483" alt="Screenshot 2025-08-29 103200" src="https://github.com/user-attachments/assets/12cf94b7-687e-4447-ae9d-3f20969f3cd2" />
 </p>
 <p>
 </p>
+<br />
+
+
+<strong> 13. Download and install osTicket</strong>
+- From the osTicket-Installation-Files unzip the (osTicketv1.15.8)
+<p>
+  <img <img width="622" height="462" alt="Screenshot 2025-08-29 103214" src="https://github.com/user-attachments/assets/0ac5dfc6-e328-42f7-b732-6594b18443f9"/>
+</p>
+<p>
+ - After extracting the folder, click on the folder and then copy the "upload" folder into "c: inetpub\wwwroot"
+    - open file explorer 
+    - C drive
+    - inetpub
+    - wwwroot
+</p>
+ <img <img width="835" height="515" alt="Screenshot 2025-08-29 103228" src="https://github.com/user-attachments/assets/d72e2049-2e03-4812-bc35-6868603ce878"/>
+ 
+ - Within "c: inetpub\wwwroot", Rename "upload" to "osTicket"
+
+ <img <img <img width="826" height="420" alt="Screenshot 2025-08-29 103241" src="https://github.com/user-attachments/assets/925e3cf2-b5fa-4a69-ba00-122dcfc0e0fd" /> 
 <br />
 
 
