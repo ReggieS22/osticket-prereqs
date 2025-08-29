@@ -270,3 +270,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+<strong> 16. Enable extensions </strong>
+- open IIS > sites > Default > osTicket
+- Double-click PHP manager
+<p>
+  <img <img width="830" height="479" alt="Screenshot 2025-08-29 103352" src="https://github.com/user-attachments/assets/9c9855e0-c045-4425-870f-2e61e58bc16c"/>
+</p>
+<p>
+ - Click "Enable or disable an extension"
+
+ - Enable: php_imap.dll
+ - Enable: php_intl.dll
+ - Enable: php_opache.dll
+</p>
+<img width="826" height="530" alt="Screenshot 2025-08-29 103408" src="https://github.com/user-attachments/assets/0ef5f5f5-ac73-46bd-ba28-c145afbdba44"/>
+
+<br />
+
+
+
+
