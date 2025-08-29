@@ -329,5 +329,60 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 
+<strong> 20. Continue osTicket installation</strong>
+- Continue the osTicket installer on your browser by filling the first half of the page
+<p>
+  <img <img width="827" height="678" alt="Screenshot 2025-08-29 103510" src="https://github.com/user-attachments/assets/103c525b-f306-4c4b-86e2-b4c8a5836413" />
+</p>
+<p>
+</p>
+<br />
+
+<strong> 21. Download and install Heidi SQL from the osTicket-Installation-Files </strong>
+<p>
+  <img <img width="605" height="466" alt="Screenshot 2025-08-29 103522" src="https://github.com/user-attachments/assets/0403a2ec-0236-4d8e-b542-c7ab7f0dda60" />
+ />
+</p>
+- Open Heidi SQL and create a new version a new session
+-Fill in username and password as (root)
+- Then click open
+<p>
+ <img width="690" height="493" alt="Screenshot 2025-08-29 103535" src="https://github.com/user-attachments/assets/12e43958-60f3-416b-9c8f-b34c10767798"/>
+
+</p>
+<br />
+
+
+<strong> 22. Create new database </strong>
+- On the left side of the window, right click on "Unnamed" and click create new database and name it "osTicket"
+<p>
+  <img <img width="827" height="535" alt="Screenshot 2025-08-29 103547" src="https://github.com/user-attachments/assets/136fa14c-7684-47fa-9ff4-902c7dba6c7b" />
+</p>
+<p>
+</p>
+<br />
+
+
+<strong> 23. Finish signing in database settings </strong>
+- Then go back to your osTicket browser and fill up the missing credentials
+- Install Now
+<p>
+  <img <img width="822" height="375" alt="Screenshot 2025-08-29 103601" src="https://github.com/user-attachments/assets/1ba19c00-c60e-4eb2-a416-a89f02091549"/>
+</p>
+<p>
+</p>
+<br />
+
+
+
+<strong> 24. Finalize osTicket installation</strong>
+<p>
+  <img <img width="732" height="575" alt="Screenshot 2025-08-29 103614" src="https://github.com/user-attachments/assets/e6123fbc-ae2d-4251-a943-f2f810cdc506" />
+</p>
+<p>
+ - Congrats! You just installed osTicket!
+</p>
+<br />
+
 
 
