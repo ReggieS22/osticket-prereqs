@@ -41,7 +41,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img width="401" height="241" alt="rdp" src="https://github.com/user-attachments/assets/dbdda9cc-2a4f-4ed4-8463-094d2cbee45f" />
+
 
 Use the VM’s public IP address to connect with Remote Desktop.
 
