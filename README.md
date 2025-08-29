@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 <h2>Setting up osTicket in Azure VM</h2>
 
-- Create Virtual Machine in Azure:
+- <strong>Create Virtual Machine in Azure<strong>:
 - Log into Azure Portal
 - Create a new VM with Windows Server.
 
