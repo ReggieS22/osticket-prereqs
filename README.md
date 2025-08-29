@@ -55,7 +55,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-2. Use the VM’s public IP address to connect via Remote Desktop Connection (RDP).
+ - Use the VM’s public IP address to connect via Remote Desktop Connection (RDP).
 </p>
 <br />
 
@@ -71,13 +71,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-<strong>3. Download the osTciket-installation-Files.zip</strong>
+<strong>2. Download the osTciket-installation-Files.zip</strong>
 <p>
   <img <img width="794" height="419" alt="unzip" src="https://github.com/user-attachments/assets/e9ee5a8d-0190-4fad-a7bc-8a8c7429f50b" />
  />
 </p>
 <p>
 - Inside your VM download the https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and unzip it onto your desktop. We will use the files to download osTicket.
+</p>
+<br />
+
+
+- <strong> 3. Enable ISS with CGI </strong>
+<p>
+  <img <img width="826" height="438" alt="Screenshot 2025-08-29 102918" src="https://github.com/user-attachments/assets/595ea493-840c-4862-93c9-34da303a275c" />
+/>
+</p>
+<p>
+- Go to the Control Panel > Then go to Programs > Programs and Features > Then on the left side of the screen, click "Turn Windows features on or off.
 </p>
 <br />
 
