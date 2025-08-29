@@ -289,4 +289,45 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+<strong> 17. Refresh osTicket </strong>
+- Refresh the osTicket site in your browser, some extensions will now appear active 
+<p>
+  <img <img width="826" height="679" alt="Screenshot 2025-08-29 103418" src="https://github.com/user-attachments/assets/68cfcad5-9d52-49d3-822f-d71b253ff7ba"/>
+</p>
+<p>
+</p>
+<br />
+
+
+<strong> 18. Change to ost-config.ph </strong>
+- Rename: ost-config.php
+- From: C:\inetpub|wwwrootlosTicket\includelost-sampleconfig.php
+-To: C. linetpubiwwwrootlos Ticketinclude lost-config.php
+- rename "ost-sampleconfig.ph" to "ost-config.ph"
+
+<p>
+  <img <img width="830" height="424" alt="Screenshot 2025-08-29 103431" src="https://github.com/user-attachments/assets/0c095ed5-362c-43ed-b644-65ab4104351b"/>
+</p>
+<p>
+</p>
+<br />
+
+
+<strong> 19. Change ost-config.ph permissions </strong>
+- Change ost-config.php permissions by right clicking and selecting
+- Properties > Security > Advance > Disable inheritance
+- Disable inhertiance > Remove All
+<p>
+  <img <img width="769" height="523" alt="Screenshot 2025-08-29 103443" src="https://github.com/user-attachments/assets/842059ab-be72-42ff-a3bd-010ea81094c4"/>
+</p>
+- New Permissions > Everyone > All
+-Go to add > select prinicpal > Everyone > Clcik full access > apply > OK
+
+<p>
+  <img <img width="770" height="526" alt="Screenshot 2025-08-29 103454" src="https://github.com/user-attachments/assets/3a9bc10b-feda-4814-bd40-416774f8111a" />
+</p>
+<br />
+
+
+
 
