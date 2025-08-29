@@ -180,5 +180,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+- <strong>  The user for this service is going to type (root) as the username and the password.</strong>
+
+<p>
+  <img <img width="833" height="631" alt="Screenshot 2025-08-29 103113" src="https://github.com/user-attachments/assets/fe8e18d5-c6c7-40ad-8feb-6021038d0efd"/>
+</p>
+<p>
+</p>
+<br />
+
 
 
