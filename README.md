@@ -71,7 +71,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-- <strong>3. Download the osTciket-installation-Files.zip</strong>
+<strong>3. Download the osTciket-installation-Files.zip</strong>
 <p>
   <img <img width="794" height="419" alt="unzip" src="https://github.com/user-attachments/assets/e9ee5a8d-0190-4fad-a7bc-8a8c7429f50b" />
  />
