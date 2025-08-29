@@ -239,9 +239,34 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  
  - Within "c: inetpub\wwwroot", Rename "upload" to "osTicket"
 
- <img <img <img width="826" height="420" alt="Screenshot 2025-08-29 103241" src="https://github.com/user-attachments/assets/925e3cf2-b5fa-4a69-ba00-122dcfc0e0fd" /> 
+<img width="826" height="420" alt="Screenshot 2025-08-29 103241" src="https://github.com/user-attachments/assets/925e3cf2-b5fa-4a69-ba00-122dcfc0e0fd" /> 
 <br />
 
+
+
+<strong> 14. Reload IIS (Open ISS, Stop and Start the server) </strong>
+- The restart button can be found on the right sider of the window
+<p>
+  <img <img width="824" height="486" alt="Screenshot 2025-08-29 103253" src="https://github.com/user-attachments/assets/d7893f70-25e2-4951-9548-fff17e3d88af" />
+</p>
+<p>
+</p>
+<br />
+
+
+
+<strong> 15. Launch osTicket </strong>
+- On the left hand side of IIS, Expand on the VM name > Sites > Default Website > osTicket
+- click on the browse *:80(http)
+<p>
+  <img <img width="830" height="479" alt="Screenshot 2025-08-29 103327" src="https://github.com/user-attachments/assets/19e0f9e7-991c-4883-aaf5-8c4d3f0b48d4"/>
+</p>
+<p>
+ - This should then lead to your browser opening osTicket
+</p>
+<img width="828" height="680" alt="Screenshot 2025-08-29 103339" src="https://github.com/user-attachments/assets/96b7f529-859e-405c-92de-04a6e6fade6e"/>
+
+<br />
 
 
 
