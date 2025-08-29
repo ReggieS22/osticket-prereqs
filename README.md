@@ -36,6 +36,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - <strong>Log into Azure Portal</strong>
 - <strong>Create a new VM with Windows Server.</strong>
 
+<img width="2048" height="635" alt="azure_portal_osticket_vm_row_highlighted_v2" src="https://github.com/user-attachments/assets/318c88c3-0ade-407f-af3a-d08402ff3c63" />
+
+
 
 <p>
 <img width="401" height="241" alt="rdp" src="https://github.com/user-attachments/assets/dbdda9cc-2a4f-4ed4-8463-094d2cbee45f" />
