@@ -82,7 +82,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 
-- <strong> 3. Enable ISS with CGI </strong>
+<strong> 3. Enable ISS with CGI </strong>
 <p>
   <img <img width="826" height="438" alt="Screenshot 2025-08-29 102918" src="https://github.com/user-attachments/assets/595ea493-840c-4862-93c9-34da303a275c" />
 />
@@ -103,4 +103,44 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+
+<strong 4. Download and Install PHP manager from the osTicket-installation-Files</strong>
+<p>
+  <img <img width="507" height="415" alt="Screenshot 2025-08-29 103007" src="https://github.com/user-attachments/assets/a497235c-5fa6-46b8-b5b3-8f66cb37456a" />
+ />
+</p>
+<p>
+- (PHPManagerForIIS_V1.5.0.msi)
+</p>
+<br />
+
+
+
+
+<strong 5. Download and Install the Rewrite Module</strong>
+<p>
+  <img <img width="501" height="392" alt="Screenshot 2025-08-29 103020" src="https://github.com/user-attachments/assets/580f7d9f-1b49-4689-b53f-9b7d07a8546f" />
+ />
+ />
+</p>
+<p>
+- (rewrite_amd64_en-US.msi) from the osTicket-Installation-Files
+</p>
+<br />
+
+
+
+
+
+<strong 6. Create a directory in the C drive. Name the folder PHP. </strong>
+<p>
+  <img <img width="828" height="445" alt="Screenshot 2025-08-29 103032" src="https://github.com/user-attachments/assets/ae7026c9-63fe-42e0-b6a5-c181c1334c59" />
+ />
+ />
+ />
+</p>
+<p>
+- Go to file explorer and create the directory C:\PHP
+</p>
+<br />
 
