@@ -36,12 +36,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-
-    1. Create Virtual Machine in Azure:
-
-    Log in to Azure Portal.
-
-    Create a new VM with Windows Server. 
+1. Create Virtaul Machine in Azure:
+    Log in to Azure Portal. 
+    Create a new VM with Windows Server.
 </p>
 <br />
 
