@@ -38,7 +38,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img width="2048" height="635" alt="azure_portal_osticket_vm_row_highlighted_v2" src="https://github.com/user-attachments/assets/936fbbe9-609e-406c-895e-b76409bcbe9c" />
+<img width="401" height="241" alt="rdp" src="https://github.com/user-attachments/assets/dbdda9cc-2a4f-4ed4-8463-094d2cbee45f" />
+
+Use the VM’s public IP address to connect with Remote Desktop.
 
 </p>
 <p>
