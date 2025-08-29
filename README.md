@@ -30,16 +30,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Heidi SQL
 
 <h2>Installation Steps</h2>
+<h2>Setting up osTicket in Azure VM</h2>
 
 <p>
 <img width="2048" height="635" alt="azure_portal_osticket_vm_row_highlighted_v2" src="https://github.com/user-attachments/assets/936fbbe9-609e-406c-895e-b76409bcbe9c" />
 
 </p>
 <p>
-# Setting up osTicket in Azure VM
-  -Create a Virtual Machine in Azure:
-  -Log in to Azure Portal. 
-  Create a new VM with Windows Server.
+
 </p>
 <br />
 
